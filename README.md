@@ -1,4 +1,4 @@
-S.No.     Program Name
+**S.No.     Program Name
 1. Install Apache Kafka on a single node.
 2. Demonstrate setting up a single-node, single-broker Kafka cluster and show basic 
 operations such as creating topics and producing/consuming messages.
@@ -17,3 +17,4 @@ behavior.
 topics.
  10.Introduce Kafka Connect and demonstrate how to use connectors to integrate with 
 external systems.
+******
